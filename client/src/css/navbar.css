@@ -1,0 +1,10 @@
+.navbar {
+  background-color: aliceblue;
+  height: 8vh;
+  color: rgb(255, 0, 191);
+  font-size: 2.5em;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
