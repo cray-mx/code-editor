@@ -1,0 +1,12 @@
+.split-flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.gutter {
+  background-color: rgb(102, 102, 102);
+}
+
+.gutter:hover {
+  cursor: e-resize;
+}

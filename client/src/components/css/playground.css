@@ -1,0 +1,18 @@
+.split-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.gutter {
+  background-color: #666666;
+}
+
+.gutter:hover {
+  cursor: e-resize;
+}
+/*# sourceMappingURL=playground.css.map */
