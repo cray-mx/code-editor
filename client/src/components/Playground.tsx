@@ -2,7 +2,7 @@ import React from "react";
 import Split from "react-split";
 import { Editor } from "./Editor";
 import { Output } from "./Output";
-import "./css/playground.css";
+import "../css/playground.css";
 
 export const Playground: React.FC = () => {
   return (
